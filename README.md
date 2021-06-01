@@ -1,4 +1,4 @@
-# CV
+# 👩‍🎓 CV
 Simple curriculum vitae using HTML  
 (One of the challenges from The Complete 2021 Web Development Bootcamp by Angela Yu).
 
@@ -9,4 +9,4 @@ HTML
 Deployed Website: https://aparnaraj23.github.io/CV/
 
 # Acknowledgments
-The Complete 2020 Web Development Bootcamp by Angela Yu.
+The Complete 2021 Web Development Bootcamp by Angela Yu.
